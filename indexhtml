@@ -1,12 +1,14 @@
 <!doctype html>
-<htlm lang="fr">
-<meta charset="utf-8">
+<htlm>
 <head>
 <title>une bienvenue </title>
-<link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
+<meta charset="utf-8">
+<link href="UTF-8">
+<link= href="style.css"rel=stylesheet">
 </head>
-<site>
 <body>
+<link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
+<site>
 <iframe>
 <a href="https://www.reverso.net/traduction-texte">Texte de l’ancre du lien</a>
   id="inlineFrameExample"
