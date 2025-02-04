@@ -8,11 +8,12 @@
 <site>
 <body>
 <iframe>
+<a href="URL">Texte de l’ancre du lien</a>
+<src="https://www.reverso.net/traduction-texte">
   id="inlineFrameExample"
   title="Inline Frame Example"
   width="300"
   height="200"
-<src="https://www.reverso.net/traduction-texte">
 </iframe>
 
 </body>
