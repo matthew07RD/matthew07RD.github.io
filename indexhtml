@@ -2,7 +2,7 @@
 <htlm lang="fr">
 <meta charset="utf-8">
 <head>
-<title>une bienvenue sur votre visite virtuel</title>
+<title>une bienvenue </title>
 <link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
 </head>
 <site>
@@ -12,7 +12,7 @@
   title="Inline Frame Example"
   width="300"
   height="200"
-<src="https://www.reverso.net/traduction-texte ">
+<src="https://www.reverso.net/traduction-texte">
 </iframe>
 
 </body>
