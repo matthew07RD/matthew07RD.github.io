@@ -1,12 +1,13 @@
 <!doctype html>
 <htlm lang="fr">
 <meta charset="utf-8">
+<head/>
 <title>une bienvenue sur votre visite virtuel</title>
 <link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
 </nouveau site personnel>
 <site>
 
-<iframe
+<iframe>
   id="inlineFrameExample"
   title="Inline Frame Example"
   width="300"
