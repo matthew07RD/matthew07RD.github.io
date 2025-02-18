@@ -1,8 +1,15 @@
-<h1> page1:</h1>
-    <iframe src="https://groupe-tf1.fr/fr" width="600" height="400"></iframe>
+<!doctype html>
+<htlm>
+<meta charset="utf-8">
+<head>
+<title>une bienvenue </title>
+<link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
+</head>
+<body>
+    <h1> page 1 :</h1>
+    <iframe src="https://www.reverso.net/traduction-texte" width="600" height="400"></iframe>
     <p> la traduction précise.</p>
 </body>
 </html>
 
 </html>
-
