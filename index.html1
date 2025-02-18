@@ -1,18 +1,1 @@
-<!doctype html>
-<htlm>
-<meta charset="utf-8">
-<head>
-<title>une bienvenue </title>
-<link rel="https://github.com/matthew07RD/matthew07RD.github.io.git" href="style.css">
-</head>
-<body>
-<header>
-<p1>bienvenue dans votre nouveau site veuillez selectionner le contenu à regarder</p1>
-    <h1> page 1 :</h1>
-    <iframe src="https://groupe-tf1.fr/fr"=width="600" height="400"></iframe>
-    <p> les nouvelles actus</p>
 
-</body>
-</html>
-
-</html>
