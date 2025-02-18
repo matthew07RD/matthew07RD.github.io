@@ -9,8 +9,9 @@
 <header>
 <p1>bienvenue dans votre nouveau site veuillez selectionner le contenu à regarder</p1>
     <h1> page 1 :</h1>
-    <iframe src="https://groupe-tf1.fr/fr" width="600" height="400"></iframe>
+    <iframe src="https://groupe-tf1.fr/fr"=width="600" height="400"></iframe>
     <p> la traduction précise.</p>
+
 </body>
 </html>
 
