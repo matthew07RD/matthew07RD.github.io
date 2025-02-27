@@ -1,2 +1,14 @@
 <title>page 1 </title>
-<iframe src="https://www.callofduty.com/fr/blackops6" width="600" height="400"></iframe>
+</head>
+<site>
+<body>
+<iframe>
+<a href="">Texte de l’ancre du lien</a>
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+</iframe>
+
+</body>
+</html>
