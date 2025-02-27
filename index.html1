@@ -3,7 +3,7 @@
 <site>
 <body>
 <iframe>
-<a href="">Texte de l’ancre du lien</a>
+<a href="https://www.callofduty.com/fr/blackops6">Texte de l’ancre du lien</a>
   id="inlineFrameExample"
   title="Inline Frame Example"
   width="300"
