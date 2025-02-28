@@ -2,39 +2,33 @@
 <html lang="fr">
 <head>
     <meta charset="utf-8">
-    <title>Bienvenue sur notre site</title>
+    <title>Call of Duty</title>
     <link rel="stylesheet" href="style.css">
-    <script type="text/javascript">
-        // Fonction pour changer la source de l'iframe
-        function changerSourceIframe(url) {
-            document.getElementById('iframe').src = url;
-        }
-    </script>
 </head>
 <body>
-
-   <header>
+    <header>
         <nav>
             <ul>
-                <li><a href="javascript:void(0);" onclick="changerSourceIframe('https://www.callofduty.com/fr/blackops6')">Call of Duty</a></li>
-                <li><a href="javascript:void(0);" onclick="changerSourceIframe('page2.html')">FRANCE 3</a></li>
-                <li><a href="javascript:void(0);" onclick="changerSourceIframe('page3.html')">Site TF1</a></li>
-                <li><a href="https://matthew07rd.github.io/">Accueil</a></li>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="page1.html">Call of Duty</a></li>
+                <li><a href="page2.html">FRANCE 3</a></li>
+                <li><a href="page3.html">Site TF1</a></li>
+                <li><a href="page4.html">Autre Page</a></li>
             </ul>
         </nav>
     </header>
 
     <main>
-        <h1>Bienvenue sur notre site web</h1>
-        <p>Choisissez une page ci-dessus pour afficher son contenu dans l'iframe ci-dessous.</p>
-
-        <!-- Iframe pour afficher le contenu des pages -->
-        <iframe id="iframe" src="" width="100%" height="600px" frameborder="0" allowfullscreen></iframe>
+        <h1>Page Call of Duty</h1>
+          <p>Le contenu Call of Duty ne peut pas être affiché dans cette page pour des raisons de sécurité, mais vous pouvez y accéder en cliquant sur le lien suivant :</p>
+          <a href="https://www.callofduty.com/fr/blackops6" target="_blank">
+          <button> les nouveauté sur Call of Duty Black Ops 6</button>
+         </a>
     </main>
+    
 
     <footer>
         <p>&copy; 2025 Mon Site</p>
     </footer>
-
 </body>
 </html>
