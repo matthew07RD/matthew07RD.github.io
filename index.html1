@@ -1,22 +1,20 @@
 <title>page 1 </title>
 <html>
-
-   <head>
-       <title> les nouveauté sur warzone</title>
-       <meta charset= "utf-6">
-       <link rel= "index.html"href="mon site internet"> 
-</head>
-
+     <head>
+         <title> les nouveauté sur warzone</title>
+         <meta charset= "utf-6">
+         <link rel= "index.html"href="mon site internet"> 
+    </head>
 
 
 
-<body>
-       <iframe>
-        width="300"
-        height="200
-        <a href="https://www.callofduty.com/fr/blackops6">Texte de l’ancre du lien</a>
-        frameborder="0"
-       </iframe>
 
-</body>
+    <body>
+         <iframe>
+             width="300"
+             height="200
+             <a href="https://www.callofduty.com/fr/blackops6">Texte de l’ancre du lien</a>
+             frameborder="0"
+         </iframe>
+   </body>
 </html>
