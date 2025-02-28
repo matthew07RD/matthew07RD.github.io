@@ -1,14 +1,22 @@
 <title>page 1 </title>
+<html>
+
+   <head>
+       <title> les nouveauté sur warzone</title>
+       <meta charset= "utf-6">
+       <link rel= "index.html"href="mon site internet"> 
 </head>
-<site>
+
+
+
+
 <body>
-<iframe>
-<a href="https://www.callofduty.com/fr/blackops6">Texte de l’ancre du lien</a>
-  id="inlineFrameExample"
-  title="Inline Frame Example"
-  width="300"
-  height="200"
-</iframe>
+       <iframe>
+        width="300"
+        height="200
+        <a href="https://www.callofduty.com/fr/blackops6">Texte de l’ancre du lien</a>
+        frameborder="0"
+       </iframe>
 
 </body>
 </html>
