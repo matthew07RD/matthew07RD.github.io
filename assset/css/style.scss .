@@ -9,8 +9,7 @@ body{
     front: inherit;
     vertical-align: baseline;
     line-height : 1 ;
-      background-color: #f0f0f0; /* Gris clair */
-    color: #333333; /* Texte gris foncé */
+    
 }
 
 *{
