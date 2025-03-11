@@ -1,42 +1,120 @@
-
-
-
-body{
-    border: 0;
+/* Reset de base */
+body, h1, h2, p, ul, li, a, button {
     margin: 0;
     padding: 0;
-    front-size: 100%;
-    front: inherit;
-    vertical-align: baseline;
-    line-height : 1 ;
-    
+    font-family: 'Arial', sans-serif;
 }
 
-*{
- box-sizing: border-box;
+/* Corps de la page */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
 }
 
-test-largeur{
-   display: block;
-   front-size: 20px;
-   width: 1025px;
-   color:#000;
-   margin: 20px auto;
-   padding bottom: 20px;
-   text-align: center;
-   background-color; #dedede;
+/* Conteneur général */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1200px;
 }
-@media (max-width: 1024px){
-  test-largeur{
-      width: 769px;
-      background-color: blue;
-      color: #fff
+
+/* En-tête */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
 }
-  }
-@media (max-width: 1024px){
-  test-largeur{
-     margin: 0;
-     width: 100%;
+
+header h1 {
+    text-align: center;
+    font-size: 2.5rem;
 }
-  }
+
+/* Navigation */
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section principale */
+main {
+    padding: 40px 0;
+    background-color: #fff;
+}
+
+.content h2 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.content p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.content .btn-primary {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.content .btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Pied de page */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+
+    .content h2 {
+        font-size: 1.5rem;
+    }
+
+    .content p {
+        font-size: 1rem;
+    }
+
+    .content .btn-primary {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+    }
+}
+
+
 
