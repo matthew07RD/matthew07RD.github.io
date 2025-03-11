@@ -25,12 +25,12 @@ test-largeur{
    margin: 20px auto;
    padding bottom: 20px;
    text-align: center;
-   background-color; #dedede;
+   background-color; #fefefef;
 }
 @media (max-width: 1024px){
   test-largeur{
       width: 769px;
-      background-color: blue;
+      background-color: black;
       color: #fff
 }
   }
