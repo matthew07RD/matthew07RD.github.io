@@ -12,7 +12,6 @@ body{
       background-color: #f0f0f0; /* Gris clair */
     color: #333333; /* Texte gris foncé */
 }
-}
 
 *{
  box-sizing: border-box;
